@@ -38,6 +38,9 @@ dependencies:
   either_dart: ^1.0.0
   dio: ^5.5.0+1
   mocktail: ^1.0.4
+  asp: ^2.0.0
+  auto_injector: ^2.0.4
+  routefly: ^2.0.2
 
 dev_dependencies:
   flutter_test:
