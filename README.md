@@ -1,5 +1,5 @@
 # self_tasks
 
-credential
+-credential
     user:admin
     senha:admin
